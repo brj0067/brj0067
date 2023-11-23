@@ -1,7 +1,7 @@
 ![logo](https://github.com/brj0067/brj0067/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Brahma Raj Joshi</h1>
 <h3 align="center">A passionate Ethical Hacker from Nepal.</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fhacker-gif-25713495&psig=AOvVaw0-gYazcE2GqeGx7GRnm_NS&ust=1700850066740000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjTiLXe2oIDFQAAAAAdAAAAABBB”>
+<img align=“middle” alt=“coding” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fhacker-gif-25713495&psig=AOvVaw0-gYazcE2GqeGx7GRnm_NS&ust=1700850066740000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjTiLXe2oIDFQAAAAAdAAAAABBB”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brj0067&label=Profile%20views&color=0e75b6&style=flat" alt="brj0067" /> </p>
 
 - 🔭 I’m currently working on VAPT [KAHA APP](kahaapp.com)
