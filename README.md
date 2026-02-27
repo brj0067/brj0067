@@ -1,84 +1,93 @@
-# 👋 Hi, I'm Brahma Raj Joshi
+# 👋 Brahma Raj Joshi
 
-🚀 Azure Cloud & DevOps Engineer | Endpoint & Identity Specialist  
+🚀 Azure DevOps & Cloud Infrastructure Engineer  
+🔐 Identity | Security | Automation | Zero Trust  
 📍 Kathmandu, Nepal  
 
 ---
 
-## 🔥 About Me
+## 🏗 Professional Summary
 
-Azure Administrator & Endpoint Management Specialist with 5+ years of experience in:
+Azure-focused DevOps Engineer with 5+ years of experience designing, automating, and securing enterprise cloud environments. Specialized in Infrastructure as Code, CI/CD pipeline architecture, identity governance, and endpoint security aligned with Zero Trust principles.
 
-- ☁️ Azure IaaS & PaaS
-- 🔐 Microsoft Entra ID (Azure AD)
-- 📱 Microsoft Intune (Endpoint Management)
-- 🛡 Conditional Access & Zero Trust Security
-- ⚙️ Infrastructure as Code (Bicep)
-- 🔄 CI/CD & GitHub Actions
-- ⚡ Power Platform (Power Apps & Power Automate)
-
-Currently working as a **Power Platform Developer**, building automated workflows and secure cloud solutions.
+Experienced in delivering production-ready Azure solutions with high availability, security compliance, and automation at scale.
 
 ---
 
-## 🛠 Tech Stack
+## ☁️ Cloud & Infrastructure Expertise
 
-**Cloud & DevOps**
-- Microsoft Azure
-- Bicep
-- GitHub Actions
-- Azure Networking
-- Azure App Services
-- Azure Function Apps
-- Jenkins
-- Docker & Containers
-- Kubernetes
-
-**Security**
-- Entra ID (Azure AD)
-- Conditional Access
-- MFA
-- Endpoint Security
-- Network Security
-
-**Automation & Development**
-- Power Apps
-- Power Automate
-- Shell Scripting
+- Azure IaaS / PaaS Architecture
+- Virtual Networks, Subnet Design, NSG, Private Endpoints
+- Azure App Services & Function Apps
+- Azure Backup & Disaster Recovery
+- High Availability & Scalable Architecture Design
+- Azure Networking & Hybrid Connectivity
 
 ---
 
-## 📂 Featured Projects
+## ⚙️ DevOps & Automation
 
-🔹 **Azure Web App + Function App Deployment using Bicep**  
-Infrastructure as Code template to deploy secure Azure resources.
+- CI/CD Pipeline Design (GitHub Actions)
+- YAML-based workflow automation
+- Infrastructure as Code (Bicep, ARM)
+- PowerShell & Bash scripting
+- Release management & environment strategy
+- Git branching strategies & version control best practices
 
-🔹 **Azure Backup Automation Script**  
-PowerShell-based automation for Azure Web App backups.
+---
 
-🔹 **GitHub Actions Learning Lab**  
-CI/CD automation examples for modern DevOps workflows.
+## 🐳 Containerization & Orchestration
+
+- Docker fundamentals
+- Containerized application deployment
+- Azure Kubernetes Service (AKS) concepts
+- Microservices deployment strategies
+
+---
+
+## 🔐 Security & Identity Engineering
+
+- Microsoft Entra ID (Azure AD)
+- Conditional Access & MFA
+- RBAC & Least Privilege implementation
+- Zero Trust Architecture principles
+- Microsoft Intune (Endpoint Governance)
+- Security policy enforcement & compliance
+
+---
+
+## 📊 Monitoring & Observability
+
+- Azure Monitor
+- Log Analytics Workspace
+- Application Insights
+- Proactive alerting & incident response
+
+---
+
+## 🧠 Automation & Power Platform
+
+- Power Apps (Business application development)
+- Power Automate (Workflow automation)
+- Enterprise process digitization
 
 ---
 
 ## 📜 Certifications
 
-- CompTIA Linux+
 - Certified Ethical Hacker (CEH)
 - CCNA
 - Certified Network Security Professional (CNSP)
-- Penetration Testing Essentials
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Current Focus
 
-Currently transitioning deeper into:
-
-- Azure DevOps Engineering
-- Cloud Security Architecture
-- Automation & Infrastructure as Code
-- Zero Trust Implementation
+- Advanced DevOps Engineering
+- DevSecOps Implementation
+- Kubernetes & Container Orchestration
+- Cloud Governance & Policy Automation
+- Enterprise-scale Infrastructure Automation
 
 ---
 
