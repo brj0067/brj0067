@@ -1,93 +1,83 @@
-# 👋 Brahma Raj Joshi
+# Brahma Raj Joshi
 
-🚀 Azure DevOps & Cloud Infrastructure Engineer  
-🔐 Identity | Security | Automation | Zero Trust  
-📍 Kathmandu, Nepal  
+Cloud & DevOps Engineer | Azure Infrastructure | DevSecOps | Identity Architecture  
 
----
-
-## 🏗 Professional Summary
-
-Azure-focused DevOps Engineer with 5+ years of experience designing, automating, and securing enterprise cloud environments. Specialized in Infrastructure as Code, CI/CD pipeline architecture, identity governance, and endpoint security aligned with Zero Trust principles.
-
-Experienced in delivering production-ready Azure solutions with high availability, security compliance, and automation at scale.
+Kathmandu, Nepal  
 
 ---
 
-## ☁️ Cloud & Infrastructure Expertise
+## Engineering Focus
 
-- Azure IaaS / PaaS Architecture
-- Virtual Networks, Subnet Design, NSG, Private Endpoints
-- Azure App Services & Function Apps
-- Azure Backup & Disaster Recovery
-- High Availability & Scalable Architecture Design
-- Azure Networking & Hybrid Connectivity
+Designing and automating secure, scalable cloud infrastructure on Microsoft Azure.  
+Specialized in Infrastructure as Code, CI/CD pipeline architecture, identity governance, and Zero Trust implementation.
+
+Strong background in endpoint security, networking, and enterprise cloud operations.
 
 ---
 
-## ⚙️ DevOps & Automation
+## Core Expertise
 
-- CI/CD Pipeline Design (GitHub Actions)
-- YAML-based workflow automation
-- Infrastructure as Code (Bicep, ARM)
-- PowerShell & Bash scripting
-- Release management & environment strategy
-- Git branching strategies & version control best practices
+**Cloud Architecture**
+- Azure IaaS / PaaS design
+- High availability & scalable system design
+- Virtual networks, private endpoints, hybrid connectivity
+- Disaster recovery & backup strategy
 
----
+**DevOps Engineering**
+- CI/CD pipeline architecture (GitHub Actions)
+- Infrastructure as Code (Bicep / ARM)
+- Environment promotion strategies
+- Release automation & version control best practices
 
-## 🐳 Containerization & Orchestration
-
-- Docker fundamentals
-- Containerized application deployment
-- Azure Kubernetes Service (AKS) concepts
-- Microservices deployment strategies
-
----
-
-## 🔐 Security & Identity Engineering
-
-- Microsoft Entra ID (Azure AD)
+**Security & Identity**
+- Microsoft Entra ID architecture
+- RBAC & least-privilege design
 - Conditional Access & MFA
-- RBAC & Least Privilege implementation
-- Zero Trust Architecture principles
-- Microsoft Intune (Endpoint Governance)
-- Security policy enforcement & compliance
+- Endpoint governance (Intune)
+- Zero Trust security alignment
+
+**Automation**
+- PowerShell & Bash scripting
+- Workflow automation (Power Platform)
+- Infrastructure provisioning & lifecycle management
 
 ---
 
-## 📊 Monitoring & Observability
+## Selected Work
 
-- Azure Monitor
-- Log Analytics Workspace
-- Application Insights
-- Proactive alerting & incident response
+**Azure Web & Function App Infrastructure (IaC)**
+- Modular Bicep templates
+- Parameterized environments (dev / staging / prod)
+- Secure networking & identity integration
+- Automated deployment via CI/CD
 
----
+**Azure Backup Automation**
+- Scripted backup workflows
+- Production-ready scheduling
+- Operational reliability improvements
 
-## 🧠 Automation & Power Platform
-
-- Power Apps (Business application development)
-- Power Automate (Workflow automation)
-- Enterprise process digitization
-
----
-
-## 📜 Certifications
-
-- Certified Ethical Hacker (CEH)
-- CCNA
-- Certified Network Security Professional (CNSP)
+**GitHub Actions DevOps Lab**
+- Multi-stage pipeline implementation
+- Artifact management
+- Environment-based deployments
 
 ---
 
-## 🎯 Current Focus
+## Certifications
 
-- Advanced DevOps Engineering
-- DevSecOps Implementation
-- Kubernetes & Container Orchestration
-- Cloud Governance & Policy Automation
-- Enterprise-scale Infrastructure Automation
+CompTIA Linux+  
+Certified Ethical Hacker (CEH)  
+CCNA  
+Certified Network Security Professional  
+
+---
+
+## Current Direction
+
+- Kubernetes & container orchestration  
+- DevSecOps maturity  
+- Cloud governance & policy-as-code  
+- Enterprise-scale automation  
 
 ---
 
