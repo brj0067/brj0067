@@ -30,6 +30,9 @@ Currently working as a **Power Platform Developer**, building automated workflow
 - Azure Networking
 - Azure App Services
 - Azure Function Apps
+- Jenkins
+- Docker & Containers
+- Kubernetes
 
 **Security**
 - Entra ID (Azure AD)
@@ -42,7 +45,6 @@ Currently working as a **Power Platform Developer**, building automated workflow
 - Power Apps
 - Power Automate
 - Shell Scripting
-- HTML / TypeScript (Basic)
 
 ---
 
@@ -82,7 +84,7 @@ Currently transitioning deeper into:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your LinkedIn link here)
+- 💼 LinkedIn: https://www.linkedin.com/in/brahma-raj-joshi/
 - 📧 Email: brahmraj128@gmail.com
 
 ---
