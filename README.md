@@ -1,10 +1,8 @@
 # Brahma Raj Joshi
-![Azure](https://img.shields.io/badge/Cloud-Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
 ![DevOps](https://img.shields.io/badge/DevOps-Engineering-orange)
-![IaC](https://img.shields.io/badge/Infrastructure-as_Code-Bicep-blue)
-![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Security](https://img.shields.io/badge/Security-Zero_Trust-red)
-![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-5391FE?logo=powershell&logoColor=white)
+![IaC](https://img.shields.io/badge/IaC-Automation-green)
+![Security](https://img.shields.io/badge/Zero_Trust-Security-red)
 
 Cloud & DevOps Engineer | Azure Infrastructure | DevSecOps | Identity Architecture  
 
