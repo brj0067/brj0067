@@ -4,7 +4,6 @@
 ![IaC](https://img.shields.io/badge/IaC-Automation-green)
 ![Security](https://img.shields.io/badge/Zero_Trust-Security-red)
 
-Cloud & DevOps Engineer | Azure Infrastructure | DevSecOps | Platform Engineering  
 
 Kathmandu, Nepal  
 
