@@ -65,8 +65,6 @@ Strong background in endpoint security, networking, and enterprise cloud operati
 
 ## Certifications
 
-CompTIA Linux+  
-Certified Ethical Hacker (CEH)  
 CCNA  
 Certified Network Security Professional  
 
