@@ -119,5 +119,16 @@ LinkedIn: https://www.linkedin.com/in/brahma-raj-joshi/
 Email: brahmraj128@gmail.com  
 Website: https://www.brj.com.np/
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brj0067&show_icons=true)
+## 🔥 Featured Projects
+- 🚀 [Azure CI/CD Pipeline](https://github.com/brj0067/azure-devops-cicd-demo)
+- 🔐 [Azure DevSecOps Key Vault Integration](https://github.com/brj0067/azure-devsecops-keyvault-integration)
+
+## 🛠️ Core Skills
+- Azure
+- Azure DevOps
+- Bicep
+- Docker
+- Kubernetes
+- Managed Identity
+- Key Vault
+- RBAC
