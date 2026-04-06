@@ -118,3 +118,6 @@ Certified Network Security Professional
 LinkedIn: https://www.linkedin.com/in/brahma-raj-joshi/  
 Email: brahmraj128@gmail.com  
 Website: https://www.brj.com.np/
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=brj0067&show_icons=true&theme=default)
