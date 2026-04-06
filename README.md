@@ -120,4 +120,4 @@ Email: brahmraj128@gmail.com
 Website: https://www.brj.com.np/
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brj0067&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brj0067&show_icons=true&cache_seconds=86400)
